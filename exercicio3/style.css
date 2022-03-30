@@ -1,0 +1,33 @@
+
+    #a {
+        background-color: #FFD700; 
+        width:  1000px;
+        height: 500px;
+    }
+    
+    #b { 
+        background-color: #C0C0C0;
+        width:  50%;
+        height: 50%;
+    }
+    
+    #c {
+        color: #FFF;
+        background-color: burlywood;
+        font-size: 25px; 
+        font-family: monospace;
+        font-weight: bold;
+    }
+    
+    #d {
+        width: 50vw;
+        background-color: rgb(8, 176, 206);
+        height: 10vw;
+    
+    }
+    
+    #e {
+        width: 72vw;
+        height: 50%;
+        background-color: rgb(0, 0, 0);
+    }
