@@ -1,0 +1,29 @@
+body {
+ background-color: gray;
+ margin: 0;
+}
+
+.header{
+    border-bottom: 2px solid red;
+    background-color: aqua;
+
+}
+.container{ 
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0px auto;
+}
+.navbar {
+    border: 2px solid blue;
+    display: flex;
+    padding: 0px;
+    list-style: none;
+    width: 300px;
+    justify-content: space-between;
+    align-items: center;
+}
+.agora {
+    font-weight: 900;
+
+}

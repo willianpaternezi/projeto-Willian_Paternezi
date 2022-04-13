@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(145, 143, 143);
+}
+
+#a {
+    background-color: white;
+    height: 500px;
+    width: 50vw;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+#b {
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+}
+
+#c {
+    background-color: rgb(255, 69, 0);
+    height: 100px;
+    width: 30%;
+}
+
+#d {
+    background-color: rgb(5, 139, 5);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin: 50px 50px;
+}
